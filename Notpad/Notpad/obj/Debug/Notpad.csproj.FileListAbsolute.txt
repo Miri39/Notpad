@@ -1,0 +1,11 @@
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\bin\Debug\Notpad.exe.config
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\bin\Debug\Notpad.exe
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\bin\Debug\Notpad.pdb
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.csproj.AssemblyReference.cache
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.Properties.Resources.resources
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.csproj.GenerateResource.cache
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.csproj.CoreCompileInputs.cache
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.exe
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.pdb
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.Form1.resources
