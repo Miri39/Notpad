@@ -9,3 +9,4 @@ C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpa
 C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.exe
 C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.pdb
 C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.Form1.resources
+C:\Users\MIRI\OneDrive\Desktop\Work\gdsc\C#\Notpad\Notpad\Notpad\obj\Debug\Notpad.Form2.resources

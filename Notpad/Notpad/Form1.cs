@@ -6,6 +6,9 @@ namespace Notpad
     public partial class Form1 : Form
     {
         private string OurFileName;
+        private string LastFindWord;
+        private bool LastFindDown;
+        private bool LastFindMatchCase;
 
         void Save(string filename)
         {
@@ -82,6 +85,39 @@ namespace Notpad
             {
                 Save(OurFileName);
             }
+        }
+
+        private void findToolStripMenuItem_Click(object sender, EventArgs e)
+        { 
+            Form2 find = new Form2();
+            find.Show(this);
+            
+        }
+
+        public void DoFind(string search, bool down, bool match_case)
+        {
+            LastFindWord = search;
+            LastFindDown = down;
+            LastFindMatchCase = match_case;
+
+            if (down)
+            {
+                if (match_case)
+                {
+                    textBox.Find(search, textBox.SelectionStart + 1, RichTextBoxFinds.MatchCase);
+                }
+                else
+                {
+                    textBox.Find(search, textBox.SelectionStart + 1, RichTextBoxFinds.None);
+                }
+            }
+        }
+ 
+        public void findNextToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 parent_form = (Form1)Owner;
+            Form2 form2 = new Form2();
+            parent_form.DoFind(form2.textFindWhat.Text, form2.radioButtonDown.Checked,form2.checkMatchCase.Checked);
         }
     }
 }
